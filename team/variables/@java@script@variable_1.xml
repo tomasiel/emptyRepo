@@ -1,0 +1,4 @@
+<variable-javascript name="JavaScriptVariable_1" offset="1" order="3" policy="3" range="2" uid="dae49b0f-ac95-4cf2-b7fe-a3b399cbca39" whenOutOfValues="CYCLE_VALUES">
+<column name="col_0" number="0"/>
+<script filename="scripts/jsVariable_082cac76-d403-4b18-aae9-ceee548c3d30.js" name="JavaScriptVariable_1" ts="48D0E20E998B97A423A4E5184EB0929DB7FDC274" uid="082cac76-d403-4b18-aae9-ceee548c3d30"/>
+</variable-javascript>
